@@ -82,7 +82,7 @@ python spiderman_filter.py
 
 ![Spider-Man Filter Result](screenshots/result.png)
 
-## 🛠️ How It Works
+##  How It Works
 
 ```
 Webcam Frame
@@ -111,7 +111,7 @@ Display
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 You can tweak these constants at the top of `spiderman_filter.py`:
 
